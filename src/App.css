@@ -1,0 +1,16 @@
+.box {
+    width: 280px;
+    height: 118px;
+    background-color: lightgreen;
+    align-items: center;
+    align-self: center;
+    
+    
+
+}
+.box2 {
+  width: fit-content;
+  height: fit-content;
+  background-color: rgb(238, 236, 144);
+
+}
